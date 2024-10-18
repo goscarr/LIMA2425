@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		 <meta charset="UTF-8">
+         <title>Pagina Web Real Madrid</title>
+	</head>
+	<body>
+		<h1>Palmares Actual</h1>
+		<p>El Real Madrid es uno de los clubes de todo el mundo con una gran cantidad de titulos tanto a nivel individual de jugadores como pueden ser los balones de oro de sus jugadores o otros premios individuales, tambien cuenta con un gran palmares propio tanto en Ligas nacionales como en Champions League.  </p>
+ 
+		<h4 id="tema1">Titulos totales</h4>
+		
+		<ul>
+			<li>15 Champions League</li>
+			<li>1 Trofeo FIFA mejor club del siglo XX</li>
+			<li>8 Mundiales de CLubes</li>
+			<li>6 Supercopas de Europa</li>
+			<li>2 Copas de Uefa</li>
+      		<li>36 Ligas Españolas</li>
+     		<li>20 Copas del Rey</li>
+     		<li>13 Supercopas de España</li>
+			<li>1 Copa de la Liga</li>
+			<li>18 Campeonatos Regionales</li>
+			<li>5 Trofeos Mancomunados</li>
+		  
+
+			<h4>Champions League</h4>
+
+			<figure>
+			
+				<img src="/fotos real madrid/Champions.jpg" title="Champions" alt="Exposición de las Chamipions" width="259"></img>	
+				<figcaption>
+					<em>Exposicion de las Champions</em>
+								 
+				</figcaption>
+			
+			</figure>
+			<h4>Ligas </h4>
+			<figure>
+			
+				<img src="/fotos real madrid/34-Ligas-Real-Madrid.jpg" title= "La Liga" alt="Campeones de La Liga" width="259"></img>	
+				<figcaption>
+					<em>Ligas Nacionales</em>
+								 
+				</figcaption>
+			
+			</figure>
+
+
+
+	</body>
+</html>

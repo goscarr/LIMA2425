@@ -24,7 +24,7 @@
        line-height: 80px;
        
    }
-   
+ 
    nav ul{
        float: right;
        margin-right: 20px;
@@ -52,23 +52,13 @@ li a:hover {
 i:hover{
     background-color: steelblue;
     transition: 0.4s;
-} 
-nav div{
-    margin-top: 10px;
-    text-align: right;
-    
 }
 
-nav div1 li{
-    margin-top: 325px;
-    text-align: right
-};
 
 .Delanteros{
-    color: white;
-    font-size: 27px;
+    color: black;
     font-weight: bold;
-    
+
 }
 .delanteros1{
     display: grid;
@@ -355,6 +345,7 @@ nav div2 li{
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 10px;
     margin: 10px;
+    background-color: rgb(107, 170, 221);
 }
 
 .video{

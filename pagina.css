@@ -1,0 +1,385 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=trophy");
+
+*{margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    text-decoration: none;
+
+   }
+   .lista{
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   nav{
+       height: 70px;
+       width: 100%;
+   }
+ 
+   label.indice{
+       color:white;
+       font-size: 15px;
+       padding: 0 10px;
+       font-weight:bold;
+       line-height: 80px;
+       
+   }
+   
+   nav ul{
+       float: right;
+       margin-right: 20px;
+   }
+       
+       
+   nav ul li {
+       display:inline-block;
+       line-height:70px;
+       margin: 0 5px;
+   }
+       
+   nav ul li a{
+       color: black;
+       font-size: 17px;
+       padding: 7px 13px;
+       border-radius: 4px;
+   }
+       
+li a:hover {
+    background-color:steelblue ;
+    transition: 1s;
+    
+}
+i:hover{
+    background-color: steelblue;
+    transition: 0.4s;
+} 
+nav div{
+    margin-top: 10px;
+    text-align: right;
+    
+}
+
+nav div1 li{
+    margin-top: 325px;
+    text-align: right
+};
+
+.Delanteros{
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    
+}
+.delanteros1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr  ;
+    gap: 2rem;
+    margin: auto;
+    
+}
+
+.hover:hover{
+    transform:scale(1.05);
+    border-radius: 10px;
+}
+.Delanteros{
+    text-align: left;
+    padding: 30px;
+    text-decoration:dotted;
+
+}
+
+.Entrenador{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+.Portero{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+
+.Delanteros{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+.Mediocentros{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+.Defensas{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+}
+#jugador1{
+   
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador5{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador6{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador7{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador8{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador9{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador10{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador11{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador12{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador13{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador14{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador15{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador16{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador17{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador18{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador19{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador20{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador21{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador22{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador23{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+#jugador24{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align: center;
+}
+nav div2 li{
+    margin-top: 1465px;
+    text-align: right
+}
+
+.parent{
+    display: flex;
+    justify-content:space-around;
+    box-sizing:border-box;
+    height: 450px;
+    
+}
+.box{
+    width: 300px;
+}
+#div1{
+    border: solid; background-color:rgb(131, 181, 231);
+    text-align: center;
+    
+}
+#div2{
+    border: solid;  background-color:rgb(131, 181, 231);
+    text-align: center;
+}
+#div3{
+    border: solid; background-color:rgb(131, 181, 231);
+    text-align: center;
+}
+#div4{
+    border: solid;  background-color:rgb(131, 181, 231);
+    text-align: center;
+}
+#div5{
+    border: solid;  background-color:rgb(131, 181, 231);
+    text-align: center;
+}
+
+.tabla{
+    padding: 30px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing:border-box;
+    height: 200px;
+    align-items: center;
+}
+
+.est{
+    background-color: rgb(111, 187, 250);
+    height: 100%;
+    text-align: center;
+    font-weight: bold;
+    border: 3px solid;
+}
+
+#tabla1{flex-grow: 1;}
+#tabla2{flex-grow:2 ;}
+#tabla3{flex-grow:3 ;}
+#tabla4{flex-grow: 4;}
+#tabla5{flex-grow: 5;}
+#tabla6{flex-grow: 6;}
+
+.reforma{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+.copas{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.text{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+ 
+#icono{
+    text-align: center;
+}
+ 
+.actual{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.textoact{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1px;
+    margin: 20px;
+    
+}
+
+.tele{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.adn{
+    border: solid;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.video{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.form{
+    padding: 10px;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    font-weight: bold;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit{
+    background-color: rgb(49, 133, 202);
+    padding: 10px;
+}
+.Enviar{
+    padding: 15px;
+    text-align: left;
+}
